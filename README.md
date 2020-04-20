@@ -1,1 +1,1 @@
-# [DIY] Variable Power Supply 5-28v 2A
+# [DIY] Variable Power Supply 5-28V 2A
