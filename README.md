@@ -1,5 +1,7 @@
 # [DIY] Variable Power Supply 5-28V 2A
 
+v2 https://github.com/Nanich87/diy-variable-power-supply-1-30v-3a
+
 ![PCB Top](http://gnnmobile.eu/wp-content/uploads/2020/04/DSC_0042-300x169.jpg)
 ![PCB Bottom](http://gnnmobile.eu/wp-content/uploads/2020/04/DSC_0043-300x169.jpg)
 ![3D Printed Enclosure](http://gnnmobile.eu/wp-content/uploads/2020/04/DSC_0044-300x169.jpg)
